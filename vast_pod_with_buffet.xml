@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <VAST version="4.1">
-    <Ad sequence="1" id="108192" >
+    <Ad id="108192" >
         <InLine>
             <AdSystem>SAS</AdSystem>
             <AdTitle><![CDATA[Silvercrest_1_1_livingroom-15s_Part1]]></AdTitle>
@@ -53,7 +53,7 @@
             </Creatives>
         </InLine>
     </Ad>
-    <Ad sequence="2" id="107937" >
+    <Ad id="107937" >
         <Wrapper allowMultipleAds="true">
             <AdSystem>SAS</AdSystem>
             <AdTitle><![CDATA[VAST_6MGM006I-Misa_online_2026_15s]]></AdTitle>
